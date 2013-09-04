@@ -1,7 +1,6 @@
 #ifndef TABLES_H
 #define TABLES_H
 
-
 /*table definitions*/
 
 const int IP_Box[64] =
